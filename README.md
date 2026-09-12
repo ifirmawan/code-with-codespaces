@@ -44,3 +44,5 @@ http://127.0.0.1:8000/docs
 ## Testing
 
 A small regression test checks the calculator route and the division-by-zero guard using `pytest`.
+
+This branch is the passenger workspace branch for the initial FastAPI Codespaces exploration.
